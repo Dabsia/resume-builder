@@ -1,0 +1,12 @@
+.profileTextContainer{
+    margin-top: 2rem;
+
+    padding-bottom: 2rem;
+    border-bottom: 2px solid #ccc;
+}
+
+.profileText{
+    color: #777;
+    font-size: .8rem;
+    line-height: 1.4rem;
+}

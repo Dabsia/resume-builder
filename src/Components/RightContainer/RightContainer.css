@@ -1,0 +1,7 @@
+.rightContainer{
+    width: 65%;
+    border-left: 2px solid #ccc;
+    
+    padding-left: 2rem;
+    padding-top: 2rem;
+}

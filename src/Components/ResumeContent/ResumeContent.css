@@ -1,0 +1,6 @@
+.resumeContent{
+    margin-top: 2rem;
+    border-top: 2px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+}

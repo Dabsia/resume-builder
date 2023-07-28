@@ -1,0 +1,11 @@
+.linksContainer{
+    margin-top: 2rem;
+}
+
+.linkItem{
+    list-style-type: none;
+    font-size: .8rem;
+    color: #777;
+    margin-top: .5rem;
+    cursor: pointer;
+}

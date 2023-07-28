@@ -1,0 +1,15 @@
+.headings{
+    margin-top: 1rem;
+}
+
+.detailsHeading{
+    font-size: .9rem;
+    margin-bottom: .5rem;
+    color: #777;
+}
+
+.detailsResponse{
+    font-size: .8rem;
+    color: #777;
+    margin-bottom: .5rem;
+}

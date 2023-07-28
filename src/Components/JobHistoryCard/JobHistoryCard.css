@@ -1,0 +1,29 @@
+.jobHistoryCardContainer{
+    margin-top: 2rem;
+}
+
+.jobHeadingContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: .5rem;
+}
+
+.companyInfo{
+    color: #777;
+    font-weight: 600;
+}
+
+.workingDate, .location{
+    font-size: .9rem;
+    color: #777;
+}
+
+.jobHistoryListParent{
+    list-style-position: inside;
+}
+
+.jobHistoryList{
+    font-size: .8rem;
+    margin-top: .5rem;
+    color: #777;
+}

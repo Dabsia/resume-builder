@@ -7,10 +7,10 @@ const Links = () => {
         <div className='linksContainer' >
             <Title title={'Links'} />
             <ul className='linksUl' >
-                <li className='linkItem' >LinkedIn</li>
-                <li className='linkItem' >Twiter</li>
-                <li className='linkItem' >Github</li>
-                <li className='linkItem' >Website</li>
+                <li className='https://linkedin.com/in/dabo-johnson-5b39a8211' >https://linkedin.com/in/dabo-johnson-5b39a8211</li>
+                <li className='https://twitter.com/johnson_dabo' >https://twitter.com/johnson_dabo</li>
+                <li className='https://github.com/dabsia' >https://github.com/dabsia</li>
+                <li className='https://dabojohnson.netlify.app' >https://dabojohnson.netlify.app </li>
             </ul>
         </div>
     )

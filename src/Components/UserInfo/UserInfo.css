@@ -1,0 +1,42 @@
+.userInfoContainer{
+    width: 30vw;
+    height: fit-content;
+    padding: 2rem;
+    background-color: var(--primaryColor);
+    border-radius: 1rem;
+}
+
+label{
+    color: #fff
+}
+
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.userinfoInput{
+    width: 100%;
+    outline: none;
+    border: 1px solid #ccc;
+    height: 2.5rem;
+    padding-left: .5rem;
+}
+
+.userInputButton{
+    width: 100%;
+    height: 2.5rem;
+    font-size: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    background-color: #121212;
+    color: #fff;
+    outline: none;
+    border: none;
+}
+
+.userInputErrMsg{
+    font-size: .7rem;
+    color: red;
+}

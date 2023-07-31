@@ -1,6 +1,11 @@
+:root{
+  --primaryColor: #5660E8
+}
+
 *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: Poppins, sans-serif;
+  overflow-x: hidden;
 }

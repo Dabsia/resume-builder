@@ -9,13 +9,13 @@
 }
 
 .companyInfo{
-    color: #777;
+    color: #000;
     font-weight: 600;
 }
 
 .workingDate, .location{
     font-size: .9rem;
-    color: #777;
+    color: #000;
 }
 
 .jobHistoryListParent{
@@ -25,5 +25,5 @@
 .jobHistoryList{
     font-size: .8rem;
     margin-top: .5rem;
-    color: #777;
+    color: #000;
 }

@@ -3,7 +3,8 @@
     font-weight: 500;
     position: relative;
     text-transform: uppercase;
-    color: #000
+    color: #000;
+    height: 3rem;
 }
 
 .title::before{
